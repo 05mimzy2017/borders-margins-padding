@@ -1,15 +1,27 @@
 body {
-    background-color: #ffa;
+    background-color:#dbfffb;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
     color: #880000;
+    border: 16px dotted #7200ff;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
 }
 
 h2 {
-
+  color: 880000;
+  border-left: 16px solid #9500d6;
+  padding: 20px;
 }
 
 p {
-
+  color:880000;
+  border-left: 16px solid #9500d6;
+  padding: 20px;
 }
